@@ -1,0 +1,17 @@
+*{
+    background-color:#B0FFF1;
+    font-family: sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+
+.img-card{
+    width: 280px;
+    height: 250px;
+}
+
+.card{
+    width: 280px;
+    height: 500px;
+    background-color: white;
+}
