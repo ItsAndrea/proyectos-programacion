@@ -1,0 +1,43 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif;
+}
+
+#hero{
+    text-align: center;
+    padding: 15%;
+    background-image: url(img/hero-background.webp);
+    background-size: cover;
+}
+
+#title, #subtitle{
+    margin-bottom: 20px;
+}
+
+#testimonials{
+    padding: 15%;
+    background-color: #bcf5ff;
+    text-align: center;
+}
+
+#name{ 
+    margin-bottom: 15px;
+}
+/* #testimonials{
+    animation: cambio 20s infinite alternate linear;
+}
+
+@keyframes cambio {
+	0% {margin-left: 0;}
+	20% {margin-left: 0;}
+	
+	25% {margin-left: -100%;}
+	45% {margin-left: -100%;}
+	
+	50% {margin-left: -200%;}
+	70% {margin-left: -200%;}
+	
+	75% {margin-left: -300%;}
+	100% {margin-left: -300%;}
+} */
