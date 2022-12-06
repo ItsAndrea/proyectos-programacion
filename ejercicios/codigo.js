@@ -12,7 +12,7 @@ let i = 0;
 // CONCENTRARME EN HACER EJERCICIOS DE ARREGLOS Y OBJETOS
 // Usar un Ciclo while para Recorrer un Arreglo
 
-console.log(enero);
+console.log(meses[0]);
 
 while (i < meses.length) {
     document.body.append(" ");
